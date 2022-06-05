@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuisFelipeRojasG
-- 👀 I’m interested in Fullstak web developer
-- 🌱 I’m currently learning Booptrap  
+- 👀 I’m interested in Fullstack web developer
+- 🌱 I’m currently JavaScript
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ...
 
